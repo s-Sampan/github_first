@@ -1,0 +1,30 @@
+﻿  FileName.cpp
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(7,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(8,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(9,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(10,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(11,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(12,9):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\Visual studio 2022  （code）\test_1\FileName.cpp(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Visual studio 2022  （code）\test_1\FileName.cpp(13,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  test_1.vcxproj -> D:\Visual studio 2022  （code）\test_1\x64\Debug\test_1.exe
